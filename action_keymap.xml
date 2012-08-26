@@ -11,6 +11,7 @@
     <action id="OpenInOtherPanel"/>
     <action id="ToggleTree"/>
     <action id="GoBack" keystroke="alt LEFT" alt_keystroke="LEFT"/>
+    <action id="EditBookmarks" keystroke="shift meta B"/>
     <action id="RunCommand"/>
     <action id="ShowBookmarksQL" keystroke="alt 4" alt_keystroke="ctrl J"/>
     <action id="MarkAll" keystroke="ctrl A" alt_keystroke="meta A"/>
