@@ -19,6 +19,7 @@
     <action id="SetSameFolder" keystroke="ctrl E" alt_keystroke="ctrl O"/>
     <action id="ChangeLocation" keystroke="ctrl G" alt_keystroke="meta L"/>
     <action id="SelectNextPage" keystroke="PAGE_DOWN" alt_keystroke="ctrl V"/>
+    <action id="ShowRecentLocationsQL" keystroke="alt 2" alt_keystroke="ctrl SEMICOLON"/>
     <action id="SelectPreviousPage" keystroke="PAGE_UP" alt_keystroke="meta V"/>
     <action id="Open" keystroke="ENTER"/>
     <action id="Move" keystroke="F6" alt_keystroke="meta alt M"/>
