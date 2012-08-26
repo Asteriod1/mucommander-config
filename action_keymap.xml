@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- See http://trac.mucommander.com/wiki/ActionKeyMap for information on how to customize this file -->
 <keymap version="0.9.0">
+    <action id="Open" keystroke="ENTER"/>
+    <action id="GoBack" keystroke="alt LEFT" alt_keystroke="LEFT"/>
+    <action id="GoToParent" keystroke="BACK_SPACE"/>
+    <action id="GoForward" keystroke="alt RIGHT" alt_keystroke="RIGHT"/>
 </keymap>
