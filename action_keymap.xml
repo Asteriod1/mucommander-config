@@ -2,6 +2,7 @@
 <!-- See http://trac.mucommander.com/wiki/ActionKeyMap for information on how to customize this file -->
 <keymap version="0.9.0">
     <action id="GoToParent" keystroke="BACK_SPACE"/>
+    <action id="Mkdir" keystroke="F7" alt_keystroke="shift meta N"/>
     <action id="AddBookmark" keystroke="ctrl B" alt_keystroke="meta B"/>
     <action id="Rename" keystroke="shift F6" alt_keystroke="ctrl R"/>
     <action id="UnmarkAll" keystroke="ctrl D" alt_keystroke="meta N"/>
