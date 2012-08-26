@@ -21,6 +21,7 @@
     <action id="SelectPreviousPage" keystroke="PAGE_UP" alt_keystroke="meta V"/>
     <action id="Open" keystroke="ENTER"/>
     <action id="Move" keystroke="F6" alt_keystroke="meta alt M"/>
+    <action id="ShowFileProperties" keystroke="alt ENTER" alt_keystroke="meta I"/>
     <action id="SelectFirstRow" keystroke="HOME" alt_keystroke="shift COMMA"/>
     <action id="Copy" keystroke="F5" alt_keystroke="meta alt C"/>
     <action id="SelectLastRow" keystroke="END" alt_keystroke="shift PERIOD"/>
