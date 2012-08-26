@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- See http://trac.mucommander.com/wiki/ActionKeyMap for information on how to customize this file -->
 <keymap version="0.9.0">
-    <action id="Open" keystroke="ENTER"/>
-    <action id="GoBack" keystroke="alt LEFT" alt_keystroke="LEFT"/>
+    <action id="UnmarkAll" keystroke="ctrl D" alt_keystroke="meta N"/>
     <action id="GoToParent" keystroke="BACK_SPACE"/>
-    <action id="AddBookmark" keystroke="ctrl B" alt_keystroke="meta B"/>
     <action id="Copy" keystroke="F5" alt_keystroke="meta alt C"/>
-    <action id="GoForward" keystroke="alt RIGHT" alt_keystroke="RIGHT"/>
     <action id="Move" keystroke="F6" alt_keystroke="meta alt M"/>
+    <action id="MarkAll" keystroke="ctrl A" alt_keystroke="meta A"/>
+    <action id="GoBack" keystroke="alt LEFT" alt_keystroke="LEFT"/>
+    <action id="Open" keystroke="ENTER"/>
+    <action id="GoForward" keystroke="alt RIGHT" alt_keystroke="RIGHT"/>
+    <action id="AddBookmark" keystroke="ctrl B" alt_keystroke="meta B"/>
 </keymap>
