@@ -1,0 +1,6 @@
+.DS_Store
+
+
+# Ignore other unneeded files
+*~
+\#*
