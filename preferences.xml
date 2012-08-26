@@ -4,7 +4,7 @@
     <show_splash_screen>true</show_splash_screen>
     <lookAndFeel>com.apple.laf.AquaLookAndFeel</lookAndFeel>
     <enable_system_notifications>true</enable_system_notifications>
-    <date_format>MM/dd/yy</date_format>
+    <date_format>yy/MM/dd</date_format>
     <time_format>HH:mm</time_format>
     <display_compact_file_size>true</display_compact_file_size>
     <preferred_encodings>UTF-8,UTF-16,ISO-8859-1,windows-1252,KOI8-R,Big5,GB18030,EUC-KR,Shift_JIS,ISO-2022-JP,EUC-JP</preferred_encodings>
@@ -73,4 +73,8 @@
         <lm_compatibility>0</lm_compatibility>
         <use_extended_security>false</use_extended_security>
     </smb>
+    <progress_dialog>
+        <close_when_finished>true</close_when_finished>
+        <expanded>true</expanded>
+    </progress_dialog>
 </preferences>
