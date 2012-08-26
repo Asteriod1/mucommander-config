@@ -4,6 +4,7 @@
     <action id="UnmarkAll" keystroke="ctrl D" alt_keystroke="meta N"/>
     <action id="SelectLastRow" keystroke="END" alt_keystroke="shift PERIOD"/>
     <action id="SelectNextPage" keystroke="PAGE_DOWN" alt_keystroke="ctrl V"/>
+    <action id="CopyFilePaths" keystroke="shift alt C" alt_keystroke="ctrl meta U"/>
     <action id="SelectPreviousPage" keystroke="PAGE_UP" alt_keystroke="meta V"/>
     <action id="GoToParent" keystroke="BACK_SPACE"/>
     <action id="Copy" keystroke="F5" alt_keystroke="meta alt C"/>
