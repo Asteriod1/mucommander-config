@@ -1,6 +1,9 @@
-.DS_Store
+shell_history.xml
+snapshot.xml
 
 
 # Ignore other unneeded files
+.DS_Store
 *~
 \#*
+
