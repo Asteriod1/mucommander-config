@@ -16,6 +16,7 @@
     <action id="PasteClipboardFiles"/>
     <action id="GoForward" keystroke="alt RIGHT" alt_keystroke="RIGHT"/>
     <action id="SetSameFolder" keystroke="ctrl E" alt_keystroke="ctrl O"/>
+    <action id="ChangeLocation" keystroke="ctrl G" alt_keystroke="meta L"/>
     <action id="SelectNextPage" keystroke="PAGE_DOWN" alt_keystroke="ctrl V"/>
     <action id="SelectPreviousPage" keystroke="PAGE_UP" alt_keystroke="meta V"/>
     <action id="Open" keystroke="ENTER"/>
