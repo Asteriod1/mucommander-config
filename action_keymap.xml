@@ -8,6 +8,7 @@
     <action id="GoToParent" keystroke="BACK_SPACE"/>
     <action id="Copy" keystroke="F5" alt_keystroke="meta alt C"/>
     <action id="Move" keystroke="F6" alt_keystroke="meta alt M"/>
+    <action id="ToggleTree"/>
     <action id="MarkAll" keystroke="ctrl A" alt_keystroke="meta A"/>
     <action id="SelectFirstRow" keystroke="HOME" alt_keystroke="shift COMMA"/>
     <action id="PasteClipboardFiles"/>
@@ -15,4 +16,5 @@
     <action id="Open" keystroke="ENTER"/>
     <action id="AddBookmark" keystroke="ctrl B" alt_keystroke="meta B"/>
     <action id="GoForward" keystroke="alt RIGHT" alt_keystroke="RIGHT"/>
+    <action id="ShowBookmarksQL" keystroke="alt 4" alt_keystroke="ctrl J"/>
 </keymap>
