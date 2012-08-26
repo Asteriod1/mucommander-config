@@ -2,12 +2,17 @@
 <!-- See http://trac.mucommander.com/wiki/ActionKeyMap for information on how to customize this file -->
 <keymap version="0.9.0">
     <action id="UnmarkAll" keystroke="ctrl D" alt_keystroke="meta N"/>
+    <action id="SelectLastRow" keystroke="END" alt_keystroke="shift PERIOD"/>
+    <action id="SelectNextPage" keystroke="PAGE_DOWN" alt_keystroke="ctrl V"/>
+    <action id="SelectPreviousPage" keystroke="PAGE_UP" alt_keystroke="meta V"/>
     <action id="GoToParent" keystroke="BACK_SPACE"/>
     <action id="Copy" keystroke="F5" alt_keystroke="meta alt C"/>
     <action id="Move" keystroke="F6" alt_keystroke="meta alt M"/>
     <action id="MarkAll" keystroke="ctrl A" alt_keystroke="meta A"/>
+    <action id="SelectFirstRow" keystroke="HOME" alt_keystroke="shift COMMA"/>
+    <action id="PasteClipboardFiles"/>
     <action id="GoBack" keystroke="alt LEFT" alt_keystroke="LEFT"/>
     <action id="Open" keystroke="ENTER"/>
-    <action id="GoForward" keystroke="alt RIGHT" alt_keystroke="RIGHT"/>
     <action id="AddBookmark" keystroke="ctrl B" alt_keystroke="meta B"/>
+    <action id="GoForward" keystroke="alt RIGHT" alt_keystroke="RIGHT"/>
 </keymap>
