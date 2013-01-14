@@ -5,6 +5,7 @@
 1. muCommander をインストール
 1. muCommander を起動して、いったん閉じる
 1. 下記コマンド
+
 ```
 cd ~/Library/Preferences/muCommander
 git init
