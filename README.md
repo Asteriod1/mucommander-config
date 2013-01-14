@@ -1,6 +1,19 @@
 2画面ファイラ「muCommander」の設定
 * http://www.mucommander.com
 
+## Getting Started
+1. muCommander をインストール
+1. muCommander を起動して、いったん閉じる
+1. 下記コマンド
+```
+cd ~/Library/Preferences/muCommander
+git init
+git add .
+git commit -m "first commit"
+git remote add origin git@github.com:inouetakuya/mucommander-config.git
+git pull -f origin msater:master
+```
+
 ## Mountain Lion にインストールできないとき
 1. 環境設定 > セキュリティとプライバシー
 1. ダウンロードしたアプリケーションの実行許可を「すべてのアプリケーションを許可」にしてから muCommander を起動する
