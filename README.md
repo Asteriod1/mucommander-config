@@ -4,7 +4,7 @@
 ## Getting Started
 1. muCommander をインストール
 1. muCommander を起動して、いったん閉じる
-1. 下記コマンド
+1. 下記コマンドを実行する
 
 ```
 cd ~/Library/Preferences/muCommander
