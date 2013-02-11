@@ -1,6 +1,6 @@
 shell_history.xml
 snapshot.xml
-
+credentials.xml
 
 # Ignore other unneeded files
 .DS_Store
