@@ -5,43 +5,63 @@
         <location>/</location>
     </bookmark>
     <bookmark>
+        <name>/opt/boxen</name>
+        <location>/opt/boxen/</location>
+    </bookmark>
+    <bookmark>
         <name>Desktop</name>
         <location>/Users/inouetakuya/Desktop/</location>
+    </bookmark>
+    <bookmark>
+        <name>Downloads</name>
+        <location>/Users/inouetakuya/Downloads/</location>
     </bookmark>
     <bookmark>
         <name>Dropbox</name>
         <location>/Users/inouetakuya/Dropbox/</location>
     </bookmark>
     <bookmark>
-        <name>i474</name>
-        <location>/Users/inouetakuya/Dropbox/i474/</location>
-    </bookmark>
-    <bookmark>
-        <name>inouetakuya</name>
-        <location>/Users/inouetakuya/</location>
-    </bookmark>
-    <bookmark>
-        <name>mnt</name>
-        <location>/Users/inouetakuya/mnt/</location>
-    </bookmark>
-    <bookmark>
         <name>MyBooks</name>
         <location>/Users/inouetakuya/Dropbox/MyBooks/</location>
+    </bookmark>
+    <bookmark>
+        <name>i474</name>
+        <location>/Users/inouetakuya/Dropbox/i474/</location>
     </bookmark>
     <bookmark>
         <name>paperboy</name>
         <location>/Users/inouetakuya/Dropbox/paperboy/</location>
     </bookmark>
     <bookmark>
+        <name>inouetakuya</name>
+        <location>/Users/inouetakuya/</location>
+    </bookmark>
+    <bookmark>
         <name>Preferences</name>
         <location>/Users/inouetakuya/Library/Preferences/</location>
     </bookmark>
     <bookmark>
-        <name>SimpleCap Images</name>
-        <location>/Users/inouetakuya/Pictures/SimpleCap Images/</location>
+        <name>Projects</name>
+        <location>/Users/inouetakuya/Projects/</location>
     </bookmark>
     <bookmark>
-        <name>usr/local</name>
-        <location>/usr/local</location>
+        <name>c2c</name>
+        <location>/Users/inouetakuya/Projects/c2c/</location>
+    </bookmark>
+    <bookmark>
+        <name>x300</name>
+        <location>/Users/inouetakuya/Projects/x300/</location>
+    </bookmark>
+    <bookmark>
+        <name>x300-puppet</name>
+        <location>/Users/inouetakuya/Projects/x300-puppet/</location>
+    </bookmark>
+    <bookmark>
+        <name>mnt</name>
+        <location>/Users/inouetakuya/mnt/</location>
+    </bookmark>
+    <bookmark>
+        <name>SimpleCap Images</name>
+        <location>/Users/inouetakuya/Pictures/SimpleCap Images/</location>
     </bookmark>
 </bookmarks>
